@@ -1,0 +1,10 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "practical/pattern",
+        "practical/operator",
+        "Dailycodes/CandO.java",
+        "Dailycodes/Abstractclass",
+        "Dailycodes/Innerclass"
+    ]
+}
